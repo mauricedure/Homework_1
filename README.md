@@ -1,3 +1,4 @@
+![Chronicled](https://uploads-ssl.webflow.com/59f37d05831e85000160b9b4/5ec417aa2a18db2e4c8d6105_chronicled-logo-top.svg)
 
 # CHRONICLED, INC DISRUPTING HEALTHCARE WITH BLOCKCHAIN
 
@@ -110,23 +111,7 @@ _________________________________________________________
 * These technologies are appropriate because they offer cloud space, security, organization , and reliability. All of the tech used by the company can be utilized to carry out a lot of tasks.
 
 #
-#
-#
-#
-#
-
-#
-#
-#
-##
-#
-#
-#
-#
-#
-
-##
-
+![Chronicled](https://global-uploads.webflow.com/5e387f889619c7f925b2ed39/5ec5da8e10ee749585ab0d93_Network%20Graphic.svg)
 #
 ## Sources
 *Pharmiweb - https://www.pharmiweb.com/press-release/2020-08-07/blockchain-for-healthcare-market-size-2020-global-industry-analysis-by-top-leaders-ibm-corporation
